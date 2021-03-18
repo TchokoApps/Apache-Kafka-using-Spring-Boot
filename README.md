@@ -1,4 +1,5 @@
-Source: https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/master/SetUpKafka.md
+Source: The full source code of this project can be found here: https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot
+
 # Setting Up Kafka
 ## Start Zookeeper and Kafka Broker
 Start up the Zookeeper.
