@@ -1,5 +1,11 @@
 Source: The full source code of this project can be found here: https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot
 
+# Enable Lombok on Intellij
+Goto > File > Settings > and search for > Annotation Processors. (See the screenshot Annotation Processors) > and Enable annotation processing
+
+# Yaml code completion Intellij
+Install the following plugin: Spring Assistant
+
 # Setting Up Kafka
 ## Start Zookeeper and Kafka Broker
 Start up the Zookeeper.
