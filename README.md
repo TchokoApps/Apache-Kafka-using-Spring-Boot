@@ -103,3 +103,9 @@ kafka-consumer-groups.bat --bootstrap-server localhost:9092 --describe --group c
 ```
 kafka-run-class.bat kafka.tools.DumpLogSegments --deep-iteration --files /tmp/kafka-logs/test-topic-0/00000000000000000000.log
 ```
+
+## How to kill port
+```
+
+https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows
+```
