@@ -19,8 +19,6 @@ kafka-server-start.bat ..\..\config\server.properties
 ## How to create a topic ?
 ```
 kafka-topics.bat --create --topic test-topic -zookeeper localhost:2181 --replication-factor 1 --partitions 4
-
-kafka-topics.bat --create --topic test-topic --partitions 1
 ```
 ## [](https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/master/SetUpKafka.md#how-to-instantiate-a-console-producer-1)How to instantiate a Console Producer?
 ### Without Key
